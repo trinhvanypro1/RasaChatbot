@@ -1,0 +1,6 @@
+[
+  {
+    "name": "object",
+    "pattern": "(\\bcô\\b|\\bkhoa\\b|\\bbot\\b|\\bthầy\\b|\\bbạn\\b)"
+  }
+]
